@@ -6,7 +6,7 @@ Welcome to the University of Manitoba's Accociation for Tiny Tractors (UMATT) so
 
 
 ## Ok, but where do I start?
-But before we get started, I'd like to take a minute provide you with a bit of a road-map of where we're going.
+But before we get started, I'd like to take a minute provide you with a bit of a road-map of where we're going. This repository 
 
 ...
 
