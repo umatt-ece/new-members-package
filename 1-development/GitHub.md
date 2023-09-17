@@ -82,12 +82,30 @@ One of the greatest features of GitHub (well... really it's a feature of _git_) 
 Any time files are added, edited, or removed, the change is _committed_ to the repository. A commit has a unique ID, author, date/time, and an optional description of the change made. Every commit acts as a "snapshot" of the project at a given point in time (you can go back to a particular commit and see the exact state of the project at that time). Commits allows transparency between team members of what files were changed when, especially when multiple people start working on the same thing at the same time.
 
 ### Branches
-Branches in Git/GitHub allow ...
+Branches in Git/GitHub are like various "versions" of the repository. Typically, a repository starts with a single **main** branch, from which other branches may be created at any point. Changes made in one branch will not affect another (expect when performing a _pull request_ which we will discuss in a moment). This allows one team member to work on a task or make changes to a file without actually affecting the main branch.
+
+You can switch which branch you are viewing by selecting a branch from the dropdown found in the **Code** tab. When on a particular branch, you will only be able to view the files and documents in that branch.
+
+![GitHub-BranchDropdown.png](images/GitHub-BranchDropdown.png)
+
+To manage and view branches for the repository, click on "branches" link next to the dropdown in the photo above.
+
+![GitHub-BranchManagement.png](images/GitHub-BranchManagement.png)
+
+When creating a new branch, you will need to provide a _source_ branch. When created, a new branch will be a copy of the _source branch_ (essentially at the same _commit_). Once new changes are made on this branch it will start to diverge, or "branch" off.
+
+![GitHub-NewBranch.png](images/GitHub-NewBranch.png)
 
 ### Pull Requests
-...
+Now having a bunch of different branches is great and all, but what happens when you want to consolidate changes back into a single branch? Pull requests of course! Pull requests allow you to take the changes made on one branch, and add them into another. Pull requests are the official process of _merging_ changes from a **head** branch into a **base** branch.
 
-![GitHub-BranchesDiagram.png](images/GitHub-BranchesDiagram.png)
+You can view pull requests from the **Pull requests** tab.
+
+![GitHub-PullRequests.png](images/GitHub-PullRequests.png)
+
+Here you can create new pull requests, or view active pull requests.
+
+...
 
 ## Typical Development Flow
 With our new-found knowledge of issues, commits, branches, and pull requests, I'd like to take a brief moment to talk about the general Development Workflow for electrical/software projects. You may have heard variation of this in your classes, but this is the typical workflow that us at UMATT will be using. We'll go into more detail about this is our [Development Guidelines](DevelopmentGuidelines.md) document, so definitely check that out.
@@ -101,7 +119,7 @@ Every new task typically goes through the following stages:
 
 ## Discussions
 
-## People
+## Teams
 
 ## Projects
 
