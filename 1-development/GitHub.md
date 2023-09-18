@@ -24,7 +24,7 @@ The first thing you'll want to do is find the **umatt-ece** organization. You ca
 
 Once on the organization GitHub page, you should be greeted by the _Overview Page_. This page isn't too important, but it will give you some quick links to repositories, discussion, and contributor profiles. Near the top of the page you should see a menu bar that looks something like:
 
-![GitHub-MenuBar.png](images/GitHub-MenuBar.png)
+![GitHub-MenuBar.png](assets/GitHub-MenuBar.png)
 
 Depending on your access level and which repository you are in, you may see more or less tabs in this menu bar. This is the main navigation bar for getting around the GitHub site, and following sections will give a brief overview of the various pages you can expect to find.
 
@@ -45,11 +45,11 @@ At its very core, a repository is designed to store and manage files. These coul
 
 To add a file to a repository, first navigate to a repositories **code** tab:
 
-![GitHub-CodeTab.png](images/GitHub-CodeTab.png)
+![GitHub-CodeTab.png](assets/GitHub-CodeTab.png)
 
 Here you will be able to navigate and view the files/folders within the repository. At the top of the page there is an option to "Add file". You can either create a new text/code file or upload file(s) from your local computer.
 
-![GitHub-AddFile.png](images/GitHub-AddFile.png)
+![GitHub-AddFile.png](assets/GitHub-AddFile.png)
 
 When adding or editing files you'll see that it asks you to "Commit changes". _Commits_ are how GitHub tracks the history and changes to the repository. We will discuss them more shortly, but for now it is enough to know that any time you make a change to the repository it must be _committed_, and each commit can include an optional description of the change that is being made.
 
@@ -58,7 +58,7 @@ When adding or editing files you'll see that it asks you to "Commit changes". _C
 ### Issues
 Another major part of a repository is its _issues_. Originally created to track bugs in software (hence the name), issues have become much more than that. They allow team members to track bugs, tasks, and other information regarding the project/repository. You may also hear them referred to as "tickets" (if you've ever worked with [Jira Software](https://www.atlassian.com/software/jira) this will likely be what you are familiar with). Issues are linked to a particular repository, and can be found under the **Issues** tab:
 
-![GitHub-IssuesTab.png](images/GitHub-IssuesTab.png)
+![GitHub-IssuesTab.png](assets/GitHub-IssuesTab.png)
 
 This tab provides you with an overview of all the issues in the repository. You can filter/search for issues, group them by _labels_ or _milestones_, or create a new issue!
 
@@ -66,7 +66,7 @@ This tab provides you with an overview of all the issues in the repository. You 
 
 You can click on any issue, and it will take you to a page showing more detailed information. Take for example the following issue:
 
-![GitHub-ExampleIssue.png](images/GitHub-ExampleIssue.png)
+![GitHub-ExampleIssue.png](assets/GitHub-ExampleIssue.png)
 
 - At the top there is an issue _title_ ("GitHub Navigation") and _ID_ (#4). This number is automatically assigned by GitHub such that every issue within the repository has a uniquely identifiable ID.
 - Just below that you'll see the _status_ of the issue. AN issue can either be **open** or **closed**. When an issue is closed it is considered accomplished/resolved.
@@ -86,26 +86,28 @@ Branches in Git/GitHub are like various "versions" of the repository. Typically,
 
 You can switch which branch you are viewing by selecting a branch from the dropdown found in the **Code** tab. When on a particular branch, you will only be able to view the files and documents in that branch.
 
-![GitHub-BranchDropdown.png](images/GitHub-BranchDropdown.png)
+![GitHub-BranchDropdown.png](assets/GitHub-BranchDropdown.png)
 
 To manage and view branches for the repository, click on "branches" link next to the dropdown in the photo above.
 
-![GitHub-BranchManagement.png](images/GitHub-BranchManagement.png)
+![GitHub-BranchManagement.png](assets/GitHub-BranchManagement.png)
 
 When creating a new branch, you will need to provide a _source_ branch. When created, a new branch will be a copy of the _source branch_ (essentially at the same _commit_). Once new changes are made on this branch it will start to diverge, or "branch" off.
 
-![GitHub-NewBranch.png](images/GitHub-NewBranch.png)
+![GitHub-NewBranch.png](assets/GitHub-NewBranch.png)
 
 ### Pull Requests
 Now having a bunch of different branches is great and all, but what happens when you want to consolidate changes back into a single branch? Pull requests of course! Pull requests allow you to take the changes made on one branch, and add them into another. Pull requests are the official process of _merging_ changes from a **head** branch into a **base** branch.
 
 You can view pull requests from the **Pull requests** tab.
 
-![GitHub-PullRequests.png](images/GitHub-PullRequests.png)
+![GitHub-PullRequests.png](assets/GitHub-PullRequests.png)
 
 Here you can create new pull requests, or view active pull requests.
 
 ...
+
+
 
 ## Typical Development Flow
 With our new-found knowledge of issues, commits, branches, and pull requests, I'd like to take a brief moment to talk about the general Development Workflow for electrical/software projects. You may have heard variation of this in your classes, but this is the typical workflow that us at UMATT will be using. We'll go into more detail about this is our [Development Guidelines](DevelopmentGuidelines.md) document, so definitely check that out.
