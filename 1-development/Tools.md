@@ -41,6 +41,9 @@ You can install **Fusion 360** by hopping over to [autodesk.com/education/edu-so
 If you come across soemthing about "join or create a team", don't worry about it for the moment. In the future we may try to get a UMATT team set up, but for the moment we are just using [GitHub](https://github.com/umatt-ece/pcb-design) in order to keep track of files and versioning.
 
 #### Getting Started
+AutoDesk has some really great online resources to jump-start your Fusion 360 experience. You can check out some of their courses over at [autodesk.com/certification/learn/catalog](https://www.autodesk.com/certification/learn/catalog). If you're not sure where to start, I recommend going through the following tuorials/courses to get you up to speed with PCB design.
+
+- [ ] [Learn Fusion 360 in 90 Minutes](https://www.autodesk.com/certification/learn/course/learn-fusion-360-in-90-minutes). 
 
 ## Software Tools
 
