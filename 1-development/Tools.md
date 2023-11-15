@@ -23,12 +23,14 @@ If you're on Windows, you'll definitely want ot invest in an improved terminal e
 Tools for harness drawing, PCB design, and all other _zappy-zappy_ sorts of stuff.
 
 #### AutoDesk Account
-For a lot of our electrical tools, you'll need a license for use AutoDesk software applications. You can get a _free_ student account by heading over to [autodesk.com/education/edu-software](https://www.autodesk.com/education/edu-software). Create an account, fill out your student info, and you then you should be set to go!
+In order to use AutoDesk software tools (ie. Fusion 360, AutoCAD, or AutoDesk Eagle), you'll need a license. For the very low price of _free_ you can get a license by signing up for a student account. Just head over to [autodesk.com/education/edu-software](https://www.autodesk.com/education/edu-software). Create an account, fill out your student info, and you then you should be set to go!
 
 #### Altium Account
-In order to use Altium software tools, you'll need a license. As fortune would have it, aquiring a _free_ student license is relativel easy. Just head over to [altium.com/education/student-licenses](https://www.altium.com/education/student-licenses) and sign-up using your student email and other required info. Once submitted, you should receive an email shortly - follow the link to cerify your account. _Viola_! You're all set to go.
+In order to use Altium software tools (ie. Altium Designer), you'll need a license. As fortune would have it, aquiring a _free_ student license is relativel easy. Just head over to [altium.com/education/student-licenses](https://www.altium.com/education/student-licenses) and sign-up using your student email and other required info. Once submitted, you should receive an email shortly - follow the link to verify your account. _Viola_! You're all set to go.
 
-> **Note:** You should get a separate email with your actual licensing information. When they say "it may take 1-2 hours", they mean: _it may take 1-2 hours_. So just hang tight, go touch some grass, and be ✨patient✨.
+> **Note:** Once your account has been verified, you should get a separate email with your actual licensing information. This will include import stuff like your _license number_, _activation code_, as well as the _start date_ and _end date_ for your license. Useful stuff, and not a bad idea to keep handy.
+
+_Altium 365_ (wow, real original name Altium) is a cloud-based file sharing service offered by Altium. We do keep a copy of all our files here on GitHub, but Altium 365 is a convenient way for us to share files or switch between workstations easily. In order to join the UMATT workspace, reach out to your Team Lead with your ALtium account email and we'll get you added.
 
 ### 2.1 AutoCAD
 > **Purpose:** Harnessing design
