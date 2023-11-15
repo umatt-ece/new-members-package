@@ -58,7 +58,7 @@ AutoDesk has some really great online resources to jump-start your Fusion 360 ex
 > **Purpose:** Printed Circuit Board (or PCB) design.
 
 #### Installation
-First, make sure that you have set up your [Altium License]().
+First, make sure that you have set up your [Altium License](https://github.com/umatt-ece/new-members-package/blob/main/1-development/Tools.md#altium-license).
 
 You can find the installer for **Altium Designer** over at [altium.com/products/downloads](https://www.altium.com/products/downloads). Once there, look for "Altium Designer" and click the download link on the right-hand side of the page. You'll need to sign in or just download the free-trial version of the installer. Once you have the installer .exe file, run it and follow the prompts. In order to verify your license, you'll need to sign in with the student account you created earlier If you run into any troubles (like I did...), just reach out to your team lead.
 
