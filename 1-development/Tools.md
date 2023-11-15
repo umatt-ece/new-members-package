@@ -57,7 +57,7 @@ AutoDesk has some really great online resources to jump-start your Fusion 360 ex
 You can find the installer for **Altium Designer** over at [altium.com/products/downloads](https://www.altium.com/products/downloads). Once there, look for "Altium Designer" and click the download link on the right-hand side of the page. Downloading the installer can be a bit of a pain, as it will require you to sign in to access the file (and unfortunately you can't just sign in with your "student account"). To get around this, you can do one of the following: **1)** create a free Altium account, **2)** download the "free trial", or **3)** if you don't care about having the latest version, you can use the installer file `AltiumDesignerSetup_x_x_x.exe` found in the _resurces_ folder. Once you hath aquired an installer file, run it and follow the prompts. It'll ask you to sign in, and here make sure you use your _student account_ (if you made a free account in _option 1_... don't use that one, use your student one which has the license linked to it).
 
 #### Getting Started
-Altium has a lot of great resources for getting started with PCB design.
+Altium has a lot of great resources for getting started with PCB design. It even
 
 ## Software Tools
 
