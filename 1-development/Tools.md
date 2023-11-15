@@ -22,10 +22,10 @@ If you're on Windows, you'll definitely want ot invest in an improved terminal e
 ## 2 Electrical Tools
 Tools for harness drawing, PCB design, and all other _zappy-zappy_ sorts of stuff.
 
-#### AutoDesk Account
+#### AutoDesk License
 In order to use AutoDesk software tools (ie. Fusion 360, AutoCAD, or AutoDesk Eagle), you'll need a license. For the very low price of _free_ you can get a license by signing up for a student account. Just head over to [autodesk.com/education/edu-software](https://www.autodesk.com/education/edu-software). Create an account, fill out your student info, and you then you should be set to go!
 
-#### Altium Account
+#### Altium License
 In order to use Altium software tools (ie. Altium Designer), you'll need a license. As fortune would have it, aquiring a _free_ student license is relativel easy. Just head over to [altium.com/education/student-licenses](https://www.altium.com/education/student-licenses) and sign-up using your student email and other required info. Once submitted, you should receive an email shortly - follow the link to verify your account. _Viola_! You're all set to go.
 
 > **Note:** Once your account has been verified, you should get a separate email with your actual licensing information. This will include import stuff like your _license number_, _activation code_, as well as the _start date_ and _end date_ for your license. Useful stuff, and not a bad idea to keep handy.
@@ -43,6 +43,8 @@ AutoCAD has 2 versions of their software:
 > **Purpose:** Multi-purpose CAD design. Printed Circuit Board (or PCB) design.
 
 #### Installation
+First, make sure you set up your [AutoDesk License]().
+
 You can install **Fusion 360** by hopping over to [autodesk.com/education/edu-software/overview](https://www.autodesk.com/education/edu-software/overview) and selecting "Fusion 360" from the listed software. Download the _Fusion 360 Client Downloader.exe_ and go ahead and run that. Follow the installer prompts (don't worry, it's really quite simple) and soon enough you'll ready to start designing PCBs.
 
 If you come across soemthing about "join or create a team", don't worry about it for the moment. In the future we may try to get a UMATT team set up, but for the moment we are just using [GitHub](https://github.com/umatt-ece/pcb-design) in order to keep track of files and versioning.
@@ -56,10 +58,12 @@ AutoDesk has some really great online resources to jump-start your Fusion 360 ex
 > **Purpose:** Printed Circuit Board (or PCB) design.
 
 #### Installation
-You can find the installer for **Altium Designer** over at [altium.com/products/downloads](https://www.altium.com/products/downloads). Once there, look for "Altium Designer" and click the download link on the right-hand side of the page. Downloading the installer can be a bit of a pain, as it will require you to sign in to access the file (and unfortunately you can't just sign in with your "student account"). To get around this, you can do one of the following: **1)** create a free Altium account, **2)** download the "free trial", or **3)** if you don't care about having the latest version, you can use the installer file `AltiumDesignerSetup_x_x_x.exe` found in the _resurces_ folder. Once you hath aquired an installer file, run it and follow the prompts. It'll ask you to sign in, and here make sure you use your _student account_ (if you made a free account in _option 1_... don't use that one, use your student one which has the license linked to it).
+First, make sure that you have set up your [Altium License]().
+
+You can find the installer for **Altium Designer** over at [altium.com/products/downloads](https://www.altium.com/products/downloads). Once there, look for "Altium Designer" and click the download link on the right-hand side of the page. You'll need to sign in or just download the free-trial version of the installer. Once you have the installer .exe file, run it and follow the prompts. In order to verify your license, you'll need to sign in with the student account you created earlier If you run into any troubles (like I did...), just reach out to your team lead.
 
 #### Getting Started
-Altium has a lot of great resources for getting started with PCB design. It even
+Altium has a lot of great resources for getting started with PCB design. It even has a whole frick'n online course. Just head over to [education.altium.com](https://education.altium.com/) and you can enroll for _free_. Now, I believe this account is different than the one you set up earlier (this caused me a lot of headache lol) so just keep that in mind. They're _different_ accounts. But hey, once you've signed up you'll have access to a ton of really great resources.
 
 ## Software Tools
 
